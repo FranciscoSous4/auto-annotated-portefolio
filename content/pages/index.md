@@ -200,4 +200,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/VIT_2983.JPG
 ---
