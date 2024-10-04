@@ -83,7 +83,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/ekse8pc92ppzow30ablc.webp
+        url: /images/Logo.min.svg.png
         altText: Logo five
         caption: Logo five
     spacing: 3
