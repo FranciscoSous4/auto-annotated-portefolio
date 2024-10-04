@@ -209,7 +209,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: Microsoft Office
+        label: java
       - type: Label
         label: Next.js
       - type: Label
