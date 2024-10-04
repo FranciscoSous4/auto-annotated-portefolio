@@ -70,7 +70,8 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          /images/641b3f9ce3cdde01161582b2_629712455650ab2e848fe8c4_logo-wordpress.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
