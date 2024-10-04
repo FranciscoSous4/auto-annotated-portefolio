@@ -222,6 +222,9 @@ sections:
         label: HARDWARE
         url: ''
       - type: Label
+        label: MYSQL SERVER
+        url: ''
+      - type: Label
         label: MYSQL
         url: ''
   - type: DividerSection
