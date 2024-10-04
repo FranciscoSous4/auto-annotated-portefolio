@@ -4,8 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/technology-in-the-concept-of-digital-dark-blue-background-v_1546993jpg!w700wp.webp
+  url: /images/depositphotos_426173910-stock-photo-empty-space-studio-dark-room.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
