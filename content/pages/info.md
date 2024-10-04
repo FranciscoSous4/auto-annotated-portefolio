@@ -209,7 +209,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: java
+        label: JAVA
       - type: Label
         label: Next.js
       - type: Label
