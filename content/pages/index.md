@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: ''
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Olá, o meu nome é Francisco Sousa, tenho 16 anos, sou da OFICINA-Escola
+      Profissional aluno do curso de Gestão e Programação de Sistemas
+      Informáticos.
     styles:
       self:
         height: auto
