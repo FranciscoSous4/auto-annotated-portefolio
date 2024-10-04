@@ -212,7 +212,7 @@ sections:
       - type: Label
         label: JAVA
       - type: Label
-        label: C++
+        label: C/C++
       - type: Label
         label: CSS
       - type: Label
