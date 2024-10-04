@@ -162,7 +162,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/francisco_27_sousa/'
         styles:
           self:
             textAlign: left
