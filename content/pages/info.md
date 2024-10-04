@@ -4,7 +4,8 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Space-Background-Image-3.jpg
+  url: >-
+    /images/technology-in-the-concept-of-digital-dark-blue-background-v_1546993jpg!w700wp.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
