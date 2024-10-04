@@ -207,7 +207,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: React
+        label: php
       - type: Label
         label: Microsoft Office
       - type: Label
