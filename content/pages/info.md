@@ -4,7 +4,8 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/depositphotos_426173910-stock-photo-empty-space-studio-dark-room.jpg
+  url: >-
+    /images/dark-background-abstract-background-network-3d-background-3840x2160-8324.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
