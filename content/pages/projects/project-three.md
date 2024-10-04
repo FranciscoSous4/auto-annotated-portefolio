@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Formulário Projeo
+title: Formulário Projeto
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
