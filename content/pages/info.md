@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: ''
+        label: CSS
   - type: DividerSection
     styles:
       self:
