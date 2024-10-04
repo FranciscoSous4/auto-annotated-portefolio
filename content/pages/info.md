@@ -79,7 +79,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
