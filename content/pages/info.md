@@ -66,7 +66,7 @@ sections:
     subtitle: 'Algumas das aplicações de utilizei:'
     images:
       - type: ImageBlock
-        url: /images/62fb462c05c80815393268bc_hs-webflow-tool-thunkable.svg
+        url: /images/png-transparent-thunkable-mascot-tech-companies-thumbnail.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
