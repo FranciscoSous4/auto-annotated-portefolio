@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Neste projeto tive como objetivo criar um site em WORDPRESS, sendo este sobre
-  lavagem de carros 
+  lavagem de carros .
 featuredImage:
   type: ImageBlock
   url: /images/Car Wash.png
