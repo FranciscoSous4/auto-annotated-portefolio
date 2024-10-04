@@ -206,7 +206,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: HTML
+        label: HTML 5
       - type: Label
         label: PHP
       - type: Label
