@@ -218,6 +218,9 @@ sections:
       - type: Label
         label: PYTHON
         url: ''
+      - type: Label
+        label: HARDWARE
+        url: ''
   - type: DividerSection
     styles:
       self:
