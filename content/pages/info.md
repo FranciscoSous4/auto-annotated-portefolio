@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     text: >+
       ## **Desde pequeno que desenvolvo um grande interesse pela informática,
       sendo ela através de Hardware ou Software, após me tornar aluno da
