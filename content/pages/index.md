@@ -4,7 +4,8 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: >-
+    /images/dark-background-abstract-background-network-3d-background-3840x2160-8324.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
