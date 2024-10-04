@@ -214,6 +214,9 @@ sections:
         label: C++
       - type: Label
         label: CSS
+      - type: Label
+        label: PYTHON
+        url: ''
   - type: DividerSection
     styles:
       self:
