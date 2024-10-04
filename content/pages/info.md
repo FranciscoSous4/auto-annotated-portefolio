@@ -214,7 +214,7 @@ sections:
       - type: Label
         label: C/C++
       - type: Label
-        label: CSS
+        label: CSS 3
       - type: Label
         label: PYTHON
         url: ''
