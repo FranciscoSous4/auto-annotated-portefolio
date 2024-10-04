@@ -6,7 +6,7 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   No projeto mais recente em web, desenvolvi um site em laravel, sobre vários
-  estilos de música, pois foi o tema que eu escolhi 
+  estilos de música, pois foi o tema que eu escolhi.
 featuredImage:
   type: ImageBlock
   url: /images/site hiphop.png
