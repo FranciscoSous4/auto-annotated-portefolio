@@ -211,8 +211,6 @@ sections:
       - type: Label
         label: JAVA
       - type: Label
-        label: Netlify
-      - type: Label
         label: C++
       - type: Label
         label: Swift
