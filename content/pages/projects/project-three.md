@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Este projeto foi desenvolvido com a  intenção de ser parecido com um
   formulário mas com um tema à escolha de cada aluno, no meu caso eu escolhi
-  jogos
+  jogos.
 featuredImage:
   type: ImageBlock
   url: /images/site gta.png
