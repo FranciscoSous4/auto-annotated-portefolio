@@ -13,11 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## **Desde pequeno que desenvolvo um grande interesse pela informática,
+      sendo ela através de Hardware ou Software, após me tornar aluno da
+      OFICINA, desenvolvi um gosto muito grande por Hardware, mesmo assim também
+      tenho conhecimentos sobre programação, bases de dados etc.**
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
