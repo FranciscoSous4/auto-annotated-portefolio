@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Formulário Projeto
 colors: colors-a
-date: '2022-01-22'
+date: ''
 client: Francisco Sousa
 description: >-
   Este projeto foi desenvolvido com a  intenção de ser parecido com um
