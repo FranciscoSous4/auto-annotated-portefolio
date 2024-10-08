@@ -10,11 +10,11 @@ description: >-
   jogos.
 featuredImage:
   type: ImageBlock
-  url: /images/site gta.png
+  url: /images/5.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/2.png
+  url: /images/5.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
