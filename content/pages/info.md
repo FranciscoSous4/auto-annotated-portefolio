@@ -4,7 +4,8 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: >-
+    /images/dark-background-abstract-background-network-3d-background-3840x2160-8324.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -12,15 +13,16 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    backgroundSize: inset
+    text: >+
+      ##### Desde pequeno que desenvolvo um grande interesse pela informática,
+      sendo ela através de Hardware ou Software, após me tornar aluno da
+      OFICINA, desenvolvi um gosto muito grande por Hardware, mesmo assim também
+      tenho conhecimentos sobre programação, bases de dados etc.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Clipped_image_20241008_163257.png
       altText: Hero image
     styles:
       self:
@@ -60,26 +62,27 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Algumas das aplicações de utilizei:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/62fb462c05c80815393268bc_hs-webflow-tool-thunkable.svg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          /images/641b3f9ce3cdde01161582b2_629712455650ab2e848fe8c4_logo-wordpress.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/visualstudio_code-card.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Logo.min.svg.png
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -124,7 +127,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/FranciscoSous4'
         styles:
           self:
             textAlign: left
@@ -132,23 +135,17 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/Lust27062007'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -164,7 +161,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/francisco_27_sousa/'
         styles:
           self:
             textAlign: left
@@ -189,7 +186,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'As minhas rede socias:'
   - type: DividerSection
     styles:
       self:
@@ -207,21 +204,27 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: HTML 5
       - type: Label
-        label: React
+        label: PHP
       - type: Label
-        label: Microsoft Office
+        label: JAVA
       - type: Label
-        label: Next.js
+        label: C/C++
       - type: Label
-        label: Netlify
+        label: CSS 3
       - type: Label
-        label: Pancakes
+        label: PYTHON
+        url: ''
       - type: Label
-        label: C++
+        label: HARDWARE
+        url: ''
       - type: Label
-        label: Swift
+        label: MYSQL SERVER
+        url: ''
+      - type: Label
+        label: MYSQL
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,176 +242,5 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+      a14360\@oficina.pt
 ---
