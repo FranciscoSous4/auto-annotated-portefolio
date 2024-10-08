@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Formulário Projeto
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: ''
 description: >-
   Este projeto foi desenvolvido com a  intenção de ser parecido com um
   formulário mas com um tema à escolha de cada aluno, no meu caso eu escolhi
