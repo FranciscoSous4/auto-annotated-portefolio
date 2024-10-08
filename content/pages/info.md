@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/Clipped_image_20241008_163257.png
+      url: /images/20241008_163133.jpg
       altText: Hero image
     styles:
       self:
