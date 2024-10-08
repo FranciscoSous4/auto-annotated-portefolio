@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Larevel Projeto
 colors: colors-a
-date: '2021-10-15'
+date: ''
 client: Francisco Sousa
 description: >-
   No projeto mais recente em web, desenvolvi um site em laravel, sobre vários
