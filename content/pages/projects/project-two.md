@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Car Wash.png
+  url: /images/3.png
   altText: Project image
 ---
 
