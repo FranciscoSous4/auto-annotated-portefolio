@@ -15,12 +15,10 @@ sections:
     colors: colors-f
     backgroundSize: inset
     text: >+
-      ## **Desde pequeno que desenvolvo um grande interesse pela informática,
+      ## Desde pequeno que desenvolvo um grande interesse pela informática,
       sendo ela através de Hardware ou Software, após me tornar aluno da
       OFICINA, desenvolvi um gosto muito grande por Hardware, mesmo assim também
-      tenho conhecimentos sobre programação, bases de dados etc.**
-
-
+      tenho conhecimentos sobre programação, bases de dados etc.
 
     media:
       type: ImageBlock
@@ -243,7 +241,6 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |+
+    text: |
       a14360\@oficina.pt
-
 ---
