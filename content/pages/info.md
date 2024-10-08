@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/VIT_2983.JPG
+      url: /images/Clipped_image_20241008_163257.png
       altText: Hero image
     styles:
       self:
