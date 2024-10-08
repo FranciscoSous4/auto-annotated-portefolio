@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Car Wash projeto
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   Neste projeto tive como objetivo criar um site em WORDPRESS, sendo este sobre
   lavagem de carros.
