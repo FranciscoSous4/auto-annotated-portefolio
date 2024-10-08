@@ -10,7 +10,7 @@ description: >-
   jogos.
 featuredImage:
   type: ImageBlock
-  url: /images/site gta.png
+  url: /images/5.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
